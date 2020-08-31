@@ -7,3 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Kaliman 
+* Chano
+* El chapulin colorado
